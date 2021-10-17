@@ -1,0 +1,290 @@
+/Users/scottejames/Library/Java/JavaVirtualMachines/openjdk-17/Contents/Home/bin/java -javaagent:/Users/scottejames/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/211.7442.40/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=64564:/Users/scottejames/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/211.7442.40/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/scottejames/IdeaProjects/Synacor/out/production/Synacor com.scottejames.Main
+0:<OpNoop>
+1:<OpNoop>
+2:<OpOut W >
+4:<OpOut e >
+6:<OpOut l >
+8:<OpOut c >
+10:<OpOut o >
+12:<OpOut m >
+14:<OpOut e >
+16:<OpOut   >
+18:<OpOut t >
+20:<OpOut o >
+22:<OpOut   >
+24:<OpOut t >
+26:<OpOut h >
+28:<OpOut e >
+30:<OpOut   >
+32:<OpOut S >
+34:<OpOut y >
+36:<OpOut n >
+38:<OpOut a >
+40:<OpOut c >
+42:<OpOut o >
+44:<OpOut r >
+46:<OpOut   >
+48:<OpOut C >
+50:<OpOut h >
+52:<OpOut a >
+54:<OpOut l >
+56:<OpOut l >
+58:<OpOut e >
+60:<OpOut n >
+62:<OpOut g >
+64:<OpOut e >
+66:<OpOut ! >
+68:<OpOut
+ >
+70:<OpOut P >
+72:<OpOut l >
+74:<OpOut e >
+76:<OpOut a >
+78:<OpOut s >
+80:<OpOut e >
+82:<OpOut   >
+84:<OpOut r >
+86:<OpOut e >
+88:<OpOut c >
+90:<OpOut o >
+92:<OpOut r >
+94:<OpOut d >
+96:<OpOut   >
+98:<OpOut y >
+100:<OpOut o >
+102:<OpOut u >
+104:<OpOut r >
+106:<OpOut   >
+108:<OpOut p >
+110:<OpOut r >
+112:<OpOut o >
+114:<OpOut g >
+116:<OpOut r >
+118:<OpOut e >
+120:<OpOut s >
+122:<OpOut s >
+124:<OpOut   >
+126:<OpOut b >
+128:<OpOut y >
+130:<OpOut   >
+132:<OpOut p >
+134:<OpOut u >
+136:<OpOut t >
+138:<OpOut t >
+140:<OpOut i >
+142:<OpOut n >
+144:<OpOut g >
+146:<OpOut   >
+148:<OpOut c >
+150:<OpOut o >
+152:<OpOut d >
+154:<OpOut e >
+156:<OpOut s >
+158:<OpOut   >
+160:<OpOut l >
+162:<OpOut i >
+164:<OpOut k >
+166:<OpOut e >
+168:<OpOut
+ >
+170:<OpOut t >
+172:<OpOut h >
+174:<OpOut i >
+176:<OpOut s >
+178:<OpOut   >
+180:<OpOut o >
+182:<OpOut n >
+184:<OpOut e >
+186:<OpOut   >
+188:<OpOut i >
+190:<OpOut n >
+192:<OpOut t >
+194:<OpOut o >
+196:<OpOut   >
+198:<OpOut t >
+200:<OpOut h >
+202:<OpOut e >
+204:<OpOut   >
+206:<OpOut c >
+208:<OpOut h >
+210:<OpOut a >
+212:<OpOut l >
+214:<OpOut l >
+216:<OpOut e >
+218:<OpOut n >
+220:<OpOut g >
+222:<OpOut e >
+224:<OpOut   >
+226:<OpOut w >
+228:<OpOut e >
+230:<OpOut b >
+232:<OpOut s >
+234:<OpOut i >
+236:<OpOut t >
+238:<OpOut e >
+240:<OpOut : >
+242:<OpOut   >
+244:<OpOut I >
+246:<OpOut F >
+248:<OpOut n >
+250:<OpOut F >
+252:<OpOut e >
+254:<OpOut I >
+256:<OpOut G >
+258:<OpOut L >
+260:<OpOut t >
+262:<OpOut X >
+264:<OpOut w >
+266:<OpOut q >
+268:<OpOut
+ >
+270:<OpOut
+ >
+272:<OpOut E >
+274:<OpOut x >
+276:<OpOut e >
+278:<OpOut c >
+280:<OpOut u >
+282:<OpOut t >
+284:<OpOut i >
+286:<OpOut n >
+288:<OpOut g >
+290:<OpOut   >
+292:<OpOut s >
+294:<OpOut e >
+296:<OpOut l >
+298:<OpOut f >
+300:<OpOut - >
+302:<OpOut t >
+304:<OpOut e >
+306:<OpOut s >
+308:<OpOut t >
+310:<OpOut . >
+312:<OpOut . >
+314:<OpOut . >
+316:<OpOut
+ >
+318:<OpOut
+ >
+320:<OpJmp 347 >
+322:<OpOut j >
+324:<OpOut m >
+326:<OpOut p >
+328:<OpOut   >
+330:<OpOut f >
+332:<OpOut a >
+334:<OpOut i >
+336:<OpOut l >
+338:<OpOut s >
+340:<OpOut
+ >
+342:<OpHalt>
+343:<OpNoop>
+344:<OpNoop>
+345:<OpNoop>
+346:<OpNoop>
+347:<OpNoop>
+348:<OpNoop>
+349:<OpNoop>
+350:<OpNoop>
+351:<OpNoop>
+352:<OpJmp 358 >
+354:<OpJmp 368 >
+356:<OpJmp 397 >
+358:<OpJmp 484 >
+360:<OpJmp 424 >
+362:<OpJmp 453 >
+364:<OpNoop>
+365:<OpNoop>
+366:<OpNoop>
+367:<OpNoop>
+368:<OpOut j >
+370:<OpOut m >
+372:<OpOut p >
+374:<OpOut   >
+376:<OpOut l >
+378:<OpOut a >
+380:<OpOut n >
+382:<OpOut d >
+384:<OpOut s >
+386:<OpOut   >
+388:<OpOut - >
+390:<OpOut 2 >
+392:<OpOut
+ >
+394:<OpHalt>
+395:<OpNoop>
+396:<OpNoop>
+397:<OpOut j >
+399:<OpOut m >
+401:<OpOut p >
+403:<OpOut   >
+405:<OpOut l >
+407:<OpOut a >
+409:<OpOut n >
+411:<OpOut d >
+413:<OpOut s >
+415:<OpOut   >
+417:<OpOut - >
+419:<OpOut 1 >
+421:<OpOut
+ >
+423:<OpHalt>
+424:<OpNoop>
+425:<OpNoop>
+426:<OpOut j >
+428:<OpOut m >
+430:<OpOut p >
+432:<OpOut   >
+434:<OpOut l >
+436:<OpOut a >
+438:<OpOut n >
+440:<OpOut d >
+442:<OpOut s >
+444:<OpOut   >
+446:<OpOut + >
+448:<OpOut 1 >
+450:<OpOut
+ >
+452:<OpHalt>
+453:<OpNoop>
+454:<OpNoop>
+455:<OpNoop>
+456:<OpNoop>
+457:<OpOut j >
+459:<OpOut m >
+461:<OpOut p >
+463:<OpOut   >
+465:<OpOut l >
+467:<OpOut a >
+469:<OpOut n >
+471:<OpOut d >
+473:<OpOut s >
+475:<OpOut   >
+477:<OpOut + >
+479:<OpOut 2 >
+481:<OpOut
+ >
+483:<OpHalt>
+484:<OpJt 0, 1074 >
+487:<OpJF 1, 1074 >
+490:<OpJt 1, 495 >
+493:<OpJmp 1074 >
+495:<OpJF 0, 500 >
+498:<OpJmp 1074 >
+500:<OpJt 0, 1093 >
+503:<OpJt 0, 1093 >
+506:<OpJt 0, 1093 >
+509:<OpJt 0, 1093 >
+512:<OpJt 0, 1093 >
+515:<OpJt 0, 1093 >
+518:<OpJt 0, 1093 >
+521:<OpJt 0, 1093 >
+524:<OpSet 0, 1 >
+526:<OpSet 8, 0 >
+Exception in thread "main" java.lang.IllegalArgumentException: Opcode is not legal when creating instruction 32768
+	at com.scottejames.InstructionFactory.getInstruction(InstructionFactory.java:21)
+	at com.scottejames.Machine.printListing(Machine.java:20)
+	at com.scottejames.Main.main(Main.java:11)
+
+Process finished with exit code 1
